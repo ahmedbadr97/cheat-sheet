@@ -1,32 +1,5 @@
    ACM-ICPC Cheat Sheet
 ==========================
-
-    Orange Juice 情報
-
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-![balloon](https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png?v5)
-
-![fried_shrimp](https://assets-cdn.github.com/images/icons/emoji/unicode/1f364.png?v5)
-![sushi](https://assets-cdn.github.com/images/icons/emoji/unicode/1f363.png?v5)
-![fish_cake](https://assets-cdn.github.com/images/icons/emoji/unicode/1f365.png?v5)
-![rice_ball](https://assets-cdn.github.com/images/icons/emoji/unicode/1f359.png?v5)
-![rice_cracker](https://assets-cdn.github.com/images/icons/emoji/unicode/1f358.png?v5)
-![stew](https://assets-cdn.github.com/images/icons/emoji/unicode/1f372.png?v5)
-![oden](https://assets-cdn.github.com/images/icons/emoji/unicode/1f362.png?v5)
-![hamburger](https://assets-cdn.github.com/images/icons/emoji/unicode/1f354.png?v5)
-![doughnut](https://assets-cdn.github.com/images/icons/emoji/unicode/1f369.png?v5)
-![cookie](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36a.png?v5)
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [1. Basic](#1-basic)
