@@ -1,4 +1,4 @@
-ACM-ICPC Cheat Sheet {.code-line data-line-start="0" data-line-end="2"}
+ACM-ICPC Cheat Sheet
 ====================
 
 **Table of Contents** *generated with
