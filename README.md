@@ -5608,23 +5608,3 @@ BigInteger & BigDecimal
         }
         return l;
     }
-
-![Google
-Translate](https://www.gstatic.com/images/branding/product/1x/translate_24dp.png)
-
-Original text {.title .gray}
-=============
-
-Contribute a better translation
-
-* * * * *
-
-![Google
-Translate](https://www.gstatic.com/images/branding/product/1x/translate_24dp.png)
-
-Original text {.title .gray}
-=============
-
-Contribute a better translation
-
-* * * * *
